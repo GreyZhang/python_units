@@ -4,3 +4,7 @@
 * Unit list
 ** get current directory name
 - code: 01_get_current_dir_name
+- A way to get the folder name of current directory, support both Windows and Linux.
+** use pandas create excel file
+- code: 02_use_pandas_create_excel
+- Use pandas to create an Excel file and use data conversion method to write list information into the excel file.
