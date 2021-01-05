@@ -9,4 +9,5 @@
 - code: 02_use_pandas_create_excel
 - Use pandas to create an Excel file and use data conversion method to write list information into the excel file.
 ** lazy_pip_install
+- code: 03_lazy_pip_install
 - If a library installation failed, try to install it again automatically. There are still some bugs in it, yet it is already better than doing that by hand.
